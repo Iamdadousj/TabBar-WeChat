@@ -8,6 +8,7 @@
 
 
 自定义标签栏组件的代码在 `/commpents/tabbar` 目录下，可以直接复制到其他项目里使用。下面讲述使用方法。
+![images](https://github.com/Iamdadousj/TabBar-WeChat/blob/master/images/TIM%E5%9B%BE%E7%89%8720180820171630.png?raw=true)
 
 ## 1、引用组件
 
