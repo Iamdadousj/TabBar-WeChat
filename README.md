@@ -1,4 +1,4 @@
-# 微信小程序自定义组件
+# 微信小程序自定义组件  如果您觉得有用，欢迎star，
   ![images](https://github.com/Iamdadousj/TabBar-WeChat/blob/master/images/TIM%E5%9B%BE%E7%89%8720180820171543.png)
 
 支持无文字图标、大图标、悬浮图标等。
