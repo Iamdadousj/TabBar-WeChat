@@ -1,5 +1,5 @@
 # 微信小程序自定义组件
-//  ![图片描述]（https://github.com/Iamdadousj/TabBar-WeChat/blob/master/images/TIM%E5%9B%BE%E7%89%8720180820171543.png）
+  ![!!!]https://github.com/Iamdadousj/TabBar-WeChat/blob/master/images/TIM%E5%9B%BE%E7%89%8720180820171543.png)
 
 支持无文字图标、大图标、悬浮图标等。
 
