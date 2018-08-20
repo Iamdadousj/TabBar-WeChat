@@ -1,5 +1,6 @@
 # 微信小程序自定义组件
 （https://github.com/Iamdadousj/TabBar-WeChat/blob/master/images/TIM%E5%9B%BE%E7%89%8720180820171543.png）
+(https://cloud.githubusercontent.com/assets/8949716/18590019/cde4acdc-7c5f-11e6-8877-b702aba7ae0c.png)  |
 
 支持无文字图标、大图标、悬浮图标等。
 
