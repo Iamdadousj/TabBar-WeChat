@@ -1,0 +1,9 @@
+
+{
+  "navigationBarTitleText": "写日记",
+  "component": true,
+  "usingComponents": {
+    "goback": "/components/goback/back",
+   "dialog": "/components/dialog/dialog"
+  }
+}

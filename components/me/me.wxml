@@ -1,0 +1,4 @@
+<!--components/me/me.wxml-->
+<view class='container'>
+        <view class="news static-news"><text>个人中心</text></view>
+</view>

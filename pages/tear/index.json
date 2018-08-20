@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "测试解析标签",
+  "component": true,
+  "usingComponents": {
+    "goback": "/components/goback/back"
+  }
+}

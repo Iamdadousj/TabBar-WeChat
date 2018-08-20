@@ -1,0 +1,25 @@
+
+<goback class="goback" bindtap='switchBack'></goback>
+
+
+<view class="container">
+<dialog id='dialog' 
+      title='临职小电哥授权提示' 
+      content='点击确定，按提示进入授权'    
+      confirmText='确定'
+      confirmfalse='取消'
+      bind:confirmEvent='confirmEvent'
+      bind:bindGetUserInfo='bindGetUserInfo'>
+</dialog>
+      		<button class='btns' wx:if="{{canIUse}}" open-type="getUserInfo"
+bindgetuserinfo="bindGetUserInfo" bindtap='confirmEvent'> 
+	<image src="/images/heart.png" class="ic-logo"></image>
+</button> 
+<view wx:else>请升级微信版本</view>
+  <view class="section">
+    <form>
+    <textarea placeholder="请输入内容" name="textarea" auto-focus/>
+    <button form-type="submit"> 提交 </button>
+  </form>
+  </view>
+</view>

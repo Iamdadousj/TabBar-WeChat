@@ -1,0 +1,2 @@
+<goback class="goback" bindtap='switchBack'></goback>
+<web-view src="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIyNjY3MjE2OQ==&scene=124#wechat_redirect"></web-view>

@@ -1,0 +1,16 @@
+<!--components/tag/tag.wxml-->
+
+<view class="container">
+    <scroll-view scroll-y style="height: 100vh;" bindscroll="scroll" enable-back-to-top>
+        <view class="content">
+            这是一段文字
+        </view>
+        <view class="news static-news"><text>自定义顶部navBar</text></view>
+        <view class="news fix-news" wx:if="{{fixTop<scrollTop}}"><text>自定义顶部navBar</text></view>
+        <view class="news-list">
+            <view wx:for="{{19}}" wx:key="{{index}}">
+                {{index+1}}　啦啦啦，我们一起来学小程序组件
+            </view>
+        </view>
+    </scroll-view>
+</view>

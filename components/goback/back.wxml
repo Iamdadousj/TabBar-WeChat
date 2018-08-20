@@ -1,0 +1,4 @@
+<!--components/goback/back.wxml-->
+<view class='goback' bindtap='switchBack'>
+<text>《-返回-》</text>
+</view>
