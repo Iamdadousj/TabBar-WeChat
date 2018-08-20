@@ -4,8 +4,7 @@
 支持无文字图标、大图标、悬浮图标等。
 
 
-
-
+下载请在git输入：git clone  https://github.com/Iamdadousj/TabBar-WeChat.git  或者[点击下载压缩包](https://github.com/Iamdadousj/TabBar-WeChat.git)
 
 自定义标签栏组件的代码在 `/commpents/tabbar` 目录下，可以直接复制到其他项目里使用。下面讲述使用方法。
 ![images](https://github.com/Iamdadousj/TabBar-WeChat/blob/master/images/TIM%E5%9B%BE%E7%89%8720180820171630.png?raw=true)
